@@ -1,0 +1,3 @@
+class Objets:
+  def __init__(self):
+  
